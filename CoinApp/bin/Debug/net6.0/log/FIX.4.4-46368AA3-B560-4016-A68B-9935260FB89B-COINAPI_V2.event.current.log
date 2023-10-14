@@ -1,0 +1,45 @@
+20231013-17:56:47.323 : Created session
+20231013-17:56:49.977 : Connecting to 185.204.224.149 on port 3302
+20231013-18:06:13.487 : Created session
+20231013-18:06:13.713 : Connecting to 185.204.224.149 on port 3302
+20231013-18:10:47.589 : Created session
+20231013-18:10:53.778 : Connecting to 185.204.224.149 on port 3303
+20231013-18:10:53.908 : Connection succeeded
+20231013-18:10:53.947 : Session reset: ResetOnLogon
+20231013-18:10:53.960 : Session reset: ResetSeqNumFlag
+20231013-18:10:53.975 : Initiated logon request
+20231013-18:10:54.143 : Session FIX.4.4:46368AA3-B560-4016-A68B-9935260FB89B->COINAPI_V2 disconnecting: System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20231013-18:10:55.795 : Connecting to 185.204.224.149 on port 3303
+20231013-18:10:55.910 : Connection succeeded
+20231013-18:10:55.912 : Session reset: ResetOnLogon
+20231013-18:10:55.919 : Session reset: ResetSeqNumFlag
+20231013-18:10:55.919 : Initiated logon request
+20231013-18:10:56.028 : Session FIX.4.4:46368AA3-B560-4016-A68B-9935260FB89B->COINAPI_V2 disconnecting: System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20231013-18:10:57.811 : Connecting to 185.204.224.149 on port 3303
+20231013-18:10:57.926 : Connection succeeded
+20231013-18:10:57.928 : Session reset: ResetOnLogon
+20231013-18:10:57.930 : Session reset: ResetSeqNumFlag
+20231013-18:10:57.930 : Initiated logon request
+20231013-18:10:58.048 : Session FIX.4.4:46368AA3-B560-4016-A68B-9935260FB89B->COINAPI_V2 disconnecting: System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20231013-18:10:59.815 : Connecting to 185.204.224.149 on port 3303
+20231013-18:10:59.926 : Connection succeeded
+20231013-18:10:59.930 : Session reset: ResetOnLogon
+20231013-18:10:59.934 : Session reset: ResetSeqNumFlag
+20231013-18:10:59.939 : Initiated logon request
+20231013-18:11:00.051 : Session FIX.4.4:46368AA3-B560-4016-A68B-9935260FB89B->COINAPI_V2 disconnecting: System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
+20231013-18:11:01.837 : Connecting to 185.204.224.149 on port 3303
+20231013-18:11:04.467 : Connection succeeded
+20231013-18:11:04.470 : Session reset: ResetOnLogon
+20231013-18:11:04.471 : Session reset: ResetSeqNumFlag
+20231013-18:11:04.471 : Initiated logon request
+20231013-18:11:04.582 : Session FIX.4.4:46368AA3-B560-4016-A68B-9935260FB89B->COINAPI_V2 disconnecting: System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   at QuickFix.SocketInitiatorThread.ReadSome(Byte[] buffer, Int32 timeoutMilliseconds)
+   at QuickFix.SocketInitiatorThread.Read()
